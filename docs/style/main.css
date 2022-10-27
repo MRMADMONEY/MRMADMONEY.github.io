@@ -1,0 +1,104 @@
+body {
+    background-image: url(./photos/background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #282a36;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #f8f8f2;
+    text-align: left;
+    font-family: Atkinson Hyperlegible, sans-serif;
+    }
+
+h1 {
+    color: #50fa7b;
+    font-size: 50px;
+    text-align: center;
+    font-family: Atkinson Hyperlegible;
+    }
+
+h2 {
+    font-size:36px;
+    text-align: center;
+}
+
+h3 {
+    font-size:24px;
+    text-align: center;
+}
+
+a {
+    color: #f8f8f2;
+    text-decoration: none;
+    z-index:9999999
+    }
+
+.bigLink {
+    color: #50fa7b;
+}
+.bigLink:hover {
+    color: #f8f8f2;
+}
+
+a:hover {
+    color: #50fa7b;
+    }
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    width: 98%;
+    }
+
+td {
+    text-align: center;
+    vertical-align: top;
+    font-size: 24px;
+    
+    border-collapse: collapse;
+    }
+
+iframe {
+    border: 4px solid #44475a;
+}
+
+.mainTextArea {
+    background-color: #282a36;
+    color: #f8f8f2;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    border: 4px solid #44475a;
+    border-collapse: collapse;
+}
+
+.subTextArea {
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.largeIcon {
+    width: 150px;
+    height: 150px;
+    vertical-align: middle;
+}
+
+.menu {
+    border: 4px solid #44475a;
+    width: 20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.ifdiv {
+    margin-bottom: 85px;
+}
+
+#plugins {
+    height: 700px;
+    width: 950px;
+}
